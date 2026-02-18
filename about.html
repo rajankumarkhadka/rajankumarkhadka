@@ -68,7 +68,7 @@
 
 
     <section class="">
-        <header class="fixed top-0 left-0 w-full bg-[#262b33] z-50 px-4 sm:px-0">
+        <header class="fixed top-0 left-0 w-full bg-blur-50 z-50 px-4 sm:px-0">
             <div class="max-w-[1024px] mx-auto  h-[64px] flex items-center justify-between">
 
 
@@ -97,7 +97,7 @@
 
 
         <!-- MOBILE MENU -->
-        <div id="mobileMenu" class="fixed inset-0 bg-[#262b33] hidden z-50">
+        <div id="mobileMenu" class="fixed inset-0 hidden z-50">
             <div class="flex items-center justify-between px-6 h-[64px]">
                 <div class="text-white font-semibold"><span class="text-purple-400">#</span> Rajan</div>
                 <button id="closeBtn" class="text-white text-2xl">✕</button>
@@ -232,52 +232,81 @@
 
     <!-- skills -->
 
-    <section class="mt-[74px] relative max-w-[1024px] mx-auto px-4 sm:px-0">
-        <div class="flex gap-10 text-center justify-between items-center">
-            <div class="flex items-center">
-                <h2 class="text-xl font-medium text-white">
-                    <span class="text-primary">#</span>skills
-                </h2>
-                <span class="h-[1px] w-[100px] lg:w-[200px] bg-[var(--primary)] inline-block"></span>
+  <section class="mt-[74px] relative max-w-[1024px] mx-auto px-4 sm:px-0">
+    <div class="flex gap-10 text-center justify-between items-center">
+        <div class="flex items-center">
+            <h2 class="text-xl font-medium text-white">
+                <span class="text-primary">#</span>skills
+            </h2>
+            <span class="h-[1px] w-[100px] lg:w-[200px] bg-[var(--primary)] inline-block"></span>
+        </div>
+    </div>
+
+    <div class="mt-10 grid grid-cols-2 lg:grid-cols-3 gap-4">
+
+        <!-- Languages -->
+        <div class="border border-[var(--gray)] text-[var(--gray)] max-h-max">
+            <h2 class="text-white font-medium p-1">Languages</h2>
+            <div class="border-t border-t-[var(--gray)]">
+                <p class="p-1 text-sm">
+                    HTML, CSS, JavaScript, TypeScript, Python, C/C++
+                </p>
             </div>
         </div>
 
-        <div class="mt-10 grid grid-cols-2 lg:grid-cols-3 gap-4 ">
-
-            <div class="border border-[var(--gray)] text-[var(--gray)] max-h-max [direction:ltr]">
-                <h2 class="text-white font-medium p-1">language</h2>
-                <div class="border-t border-t-[var(--gray)]">
-                    <p class="text-gray p-1 text-sm">HTML, CSS, JavaScript, TypeScript, Python, C/C++</p>
-                </div>
-            </div>
-
-            <div class="border border-[var(--gray)] text-[var(--gray)] max-h-max [direction:ltr]">
-                <h2 class="text-white font-medium p-1">language</h2>
-                <div class="border-t border-t-[var(--gray)]">
-                    <p class="text-gray p-1 text-sm">HTML, CSS, JavaScript, TypeScript, Python, C/C++</p>
-                </div>
-            </div>
-            <div class="border border-[var(--gray)] text-[var(--gray)] max-h-max [direction:ltr]">
-                <h2 class="text-white font-medium p-1">language</h2>
-                <div class="border-t border-t-[var(--gray)]">
-                    <p class="text-gray p-1 text-sm">HTML, CSS, JavaScript, TypeScript, Python, C/C++</p>
-                </div>
-            </div>
-            <div class="border border-[var(--gray)] text-[var(--gray)] max-h-max [direction:ltr]">
-                <h2 class="text-white font-medium p-1">language</h2>
-                <div class="border-t border-t-[var(--gray)]">
-                    <p class="text-gray p-1 text-sm">HTML, CSS, JavaScript, TypeScript, Python, C/C++</p>
-                </div>
-            </div>
-            <div class="border border-[var(--gray)] text-[var(--gray)] max-h-max [direction:ltr]">
-                <h2 class="text-white font-medium p-1">language</h2>
-                <div class="border-t border-t-[var(--gray)]">
-                    <p class="text-gray p-1 text-sm">HTML, CSS, JavaScript, TypeScript, Python, C/C++</p>
-                </div>
+        <!-- Frontend -->
+        <div class="border border-[var(--gray)] text-[var(--gray)] max-h-max">
+            <h2 class="text-white font-medium p-1">Frontend</h2>
+            <div class="border-t border-t-[var(--gray)]">
+                <p class="p-1 text-sm">
+                    Next.js, React.js, Tailwind CSS, Bootstrap, Responsive Design
+                </p>
             </div>
         </div>
 
-    </section>
+        <!-- Backend -->
+        <div class="border border-[var(--gray)] text-[var(--gray)] max-h-max">
+            <h2 class="text-white font-medium p-1">Backend</h2>
+            <div class="border-t border-t-[var(--gray)]">
+                <p class="p-1 text-sm">
+                    Django, Django REST Framework, API Development, Authentication
+                </p>
+            </div>
+        </div>
+
+        <!-- Database -->
+        <div class="border border-[var(--gray)] text-[var(--gray)] max-h-max">
+            <h2 class="text-white font-medium p-1">Database</h2>
+            <div class="border-t border-t-[var(--gray)]">
+                <p class="p-1 text-sm">
+                    PostgreSQL, MySQL, SQLite
+                </p>
+            </div>
+        </div>
+
+        <!-- Tools -->
+        <div class="border border-[var(--gray)] text-[var(--gray)] max-h-max">
+            <h2 class="text-white font-medium p-1">Tools</h2>
+            <div class="border-t border-t-[var(--gray)]">
+                <p class="p-1 text-sm">
+                    Git, GitHub, VS Code, Postman, Figma, Cloudflare, Linux
+                </p>
+            </div>
+        </div>
+
+        <!-- Other Skills -->
+        <div class="border border-[var(--gray)] text-[var(--gray)] max-h-max">
+            <h2 class="text-white font-medium p-1">Other</h2>
+            <div class="border-t border-t-[var(--gray)]">
+                <p class="p-1 text-sm">
+                    SEO, Deployment, REST API Integration, UI/UX Understanding
+                </p>
+            </div>
+        </div>
+
+    </div>
+</section>
+
 
 
     <!-- education -->
@@ -448,7 +477,7 @@
         <hr class="border-t border-t-[var(--gray)]" />
         <div class="max-w-[1024px] mx-auto grid grid-cols-1 md:grid-cols-2 mt-4 pb-8">
             <div class="flex flex-col gap-1">
-                <p class="mt-4 text-gray">© 2024 Rajan kumar khadka. All rights reserved.</p>
+                <p class="mt-4 text-gray">© <span id="year"></span> Rajan kumar khadka. All rights reserved.</p>
                 <p class="text-gray">Web designer and front-end developer</p>
             </div>
             <div class="flex flex-col">
@@ -501,10 +530,10 @@
                 </div>
             </div>
         </div>
-        <div class="justify-center text-center mb-4">
-            <p>© Copyright 2022. Made by Rajan kumar khadka</p>
-        </div>
+      
     </footer>
 </body>
+    <script src="script.js"></script>
+
 
 </html>

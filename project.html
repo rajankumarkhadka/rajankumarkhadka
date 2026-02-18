@@ -67,7 +67,7 @@
 <body>
 
     <section class="">
-        <header class="fixed top-0 left-0 w-full bg-[#262b33] z-50 px-4 sm:px-0">
+        <header class="fixed top-0 left-0 w-full z-50 px-4 sm:px-0">
             <div class="max-w-[1024px] mx-auto  h-[64px] flex items-center justify-between">
 
 
@@ -96,7 +96,7 @@
 
 
         <!-- MOBILE MENU -->
-        <div id="mobileMenu" class="fixed inset-0 bg-[#262b33] hidden z-50">
+        <div id="mobileMenu" class="fixed inset-0 hidden z-50">
             <div class="flex items-center justify-between px-6 h-[64px]">
                 <div class="text-white font-semibold"><span class="text-purple-400">#</span> Rajan Kumar Khadka</div>
                 <button id="closeBtn" class="text-white text-2xl">✕</button>
@@ -332,7 +332,7 @@
         <hr class="border-t border-t-[var(--gray)]" />
         <div class="max-w-[1024px] mx-auto grid grid-cols-1 md:grid-cols-2 mt-4 pb-8">
             <div class="flex flex-col gap-1">
-                <p class="mt-4 text-gray">© 2024 Rajan kumar khadka. All rights reserved.</p>
+                <p class="mt-4 text-gray">© <span id="year"></span> Rajan kumar khadka. All rights reserved.</p>
                 <p class="text-gray">Web designer and front-end developer</p>
             </div>
             <div class="flex flex-col">
@@ -385,10 +385,10 @@
                 </div>
             </div>
         </div>
-        <div class="justify-center text-center mb-4">
-            <p>© Copyright 2022. Made by Rajan kumar khadka</p>
-        </div>
+       
     </footer>
 </body>
+    <script src="script.js"></script>
+
 
 </html>
