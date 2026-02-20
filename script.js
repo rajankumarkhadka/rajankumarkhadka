@@ -47,6 +47,72 @@ if (document.readyState === 'loading') {
     createStars();
 }
 
+// Scroll-based star animation speed
+let lastScrollY = 0;
+let scrollVelocity = 0;
+let scrollTimeout;
+let currentSpeedMultiplier = 1;
+let decelerationInterval;
+
+function updateStarSpeed() {
+    const starsContainer = document.getElementById('stars-container');
+    if (starsContainer) {
+        const stars = starsContainer.querySelectorAll('.star');
+        
+        stars.forEach(star => {
+            // Get current animation type
+            let animationName = '';
+            if (star.classList.contains('float')) animationName = 'float';
+            else if (star.classList.contains('drift-left')) animationName = 'drift-left';
+            else if (star.classList.contains('drift-right')) animationName = 'drift-right';
+            else if (star.classList.contains('orbit')) animationName = 'orbit';
+            
+            // Apply custom animation duration based on current speed multiplier
+            if (animationName) {
+                let baseDuration = 6;
+                if (animationName === 'drift-left') baseDuration = 10;
+                else if (animationName === 'drift-right') baseDuration = 12;
+                else if (animationName === 'orbit') baseDuration = 15;
+                
+                const newDuration = baseDuration / currentSpeedMultiplier;
+                star.style.animationDuration = newDuration + 's';
+            }
+        });
+    }
+}
+
+window.addEventListener('scroll', function() {
+    const currentScrollY = window.scrollY;
+    scrollVelocity = Math.abs(currentScrollY - lastScrollY);
+    lastScrollY = currentScrollY;
+    
+    // Clear previous deceleration
+    if (decelerationInterval) {
+        clearInterval(decelerationInterval);
+    }
+    clearTimeout(scrollTimeout);
+    
+    // Calculate animation speed multiplier with more sensitivity (matches scroll speed better)
+    currentSpeedMultiplier = 1 + (Math.min(scrollVelocity, 50) / 50) * 3;
+    updateStarSpeed();
+    
+    // Smooth deceleration after scrolling stops
+    scrollTimeout = setTimeout(function() {
+        decelerationInterval = setInterval(function() {
+            // Smoothly decrease speed back to 1
+            currentSpeedMultiplier = Math.max(1, currentSpeedMultiplier - 0.08);
+            updateStarSpeed();
+            
+            // Stop when reached normal speed
+            if (currentSpeedMultiplier <= 1) {
+                currentSpeedMultiplier = 1;
+                clearInterval(decelerationInterval);
+                updateStarSpeed();
+            }
+        }, 20); // Update every 20ms for smoother response
+    }, 50);
+});
+
 document.getElementById('mobile-menu-button').onclick = function () {
     var menu = document.getElementById('mobile-menu');
     menu.classList.toggle('hidden');
