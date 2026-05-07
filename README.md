@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello, I'm Rajesh Khadka
+# 👋 Hello, I'm Rajan kumar Khadka
 
 ### 🚀 Full Stack Developer | Django • Next.js • React Native
 
