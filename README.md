@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=rajankumarkhadka&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
 </div>
 
@@ -141,7 +141,7 @@ https://your-movie-project.com
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rajankumarkhadka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajankumarkhadka&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -153,7 +153,7 @@ https://your-movie-project.com
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=rajankumarkhadka&theme=tokyonight&hide_border=true"/>
 
 </div>
 
