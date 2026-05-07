@@ -32,19 +32,19 @@
 # 🌐 Connect With Me
 
 <p align="center">
-<a href="https://facebook.com/yourprofile">
+<a href="https://facebook.com/rajankumarkhadkaa">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/yourprofile">
+<a href="https://instagram.com/rajankumarkhadkaa">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/yourprofile">
+<a href="https://linkedin.com/in/rajankumarkhadkaa">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://yourwebsite.com">
+<a href="https://rajankumarkhadka.com.np">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 </p>
@@ -143,7 +143,7 @@ https://your-movie-project.com
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajankumarkhadka&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -163,7 +163,7 @@ https://your-movie-project.com
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajankumarkhadka&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -173,7 +173,7 @@ https://your-movie-project.com
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=rajankumarkhadka&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
 
 </div>
 
