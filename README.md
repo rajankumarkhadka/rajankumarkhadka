@@ -153,7 +153,7 @@ https://your-movie-project.com
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=rajankumarkhadka&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?usenamer=rajankumarkhadka&theme=tokyonight&hide_border=true"/>
 
 </div>
 
