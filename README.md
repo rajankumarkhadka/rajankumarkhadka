@@ -1,14 +1,20 @@
 <div align="center">
 
-# 👋 Hello, I'm Rajan kumar Khadka
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0ea5e9,100:7c3aed&text=Rajan%20Kumar%20Khadka&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+
+# 👋 Hi, I'm Rajan Kumar Khadka
 
 ### 🚀 Full Stack Developer | Django • Next.js • React Native
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Django+%7C+Next.js+Developer;Building+Modern+Web+Applications;UI%2FUX+Focused+Developer;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Django+Developer;Next.js+Developer;React+Native+Developer;Building+Modern+Web+Applications;Always+Learning+New+Things" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=rajankumarkhadka&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=rajankumarkhadka&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/rajankumarkhadka?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/rajankumarkhadka?style=for-the-badge"/>
 
 </div>
 
@@ -16,122 +22,67 @@
 
 # 💫 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 🔭 Currently building **Modern Web Platforms**
+- 🔭 Currently working on **Modern Web Applications**
 - 🌱 Learning **React Native & System Design**
-- 💬 Ask me about **Django, DRF, Next.js, Tailwind CSS**
-- ⚡ Love creating **interactive UI & scalable backend**
-- 🚀 Passionate about **startup products**
+- 💬 Ask me about **Django, Django REST Framework, Next.js, React, Tailwind CSS**
+- 🚀 Passionate about building scalable products
+- 💡 Love solving real-world problems with technology
 - 🇳🇵 Based in Nepal
 
-<br clear="right"/>
+<br/>
 
 ---
 
 # 🌐 Connect With Me
 
 <p align="center">
-<a href="https://facebook.com/rajankumarkhadkaa">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
 
-<a href="https://instagram.com/rajankumarkhadkaa">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://rajankumarkhadka.com.np">
+<img src="https://skillicons.dev/icons?i=vercel"/>
 </a>
 
 <a href="https://linkedin.com/in/rajankumarkhadkaa">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://rajankumarkhadka.com.np">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://github.com/rajankumarkhadka">
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
+
+<a href="https://facebook.com/rajankumarkhadkaa">
+<img src="https://skillicons.dev/icons?i=facebook"/>
+</a>
+
+<a href="https://instagram.com/rajankumarkhadkaa">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
 </p>
 
 ---
 
-# 🚀 Live Projects
-
-<table>
-<tr>
-<td width="50%">
-
-## 🏠 Rental Management System
-
-✨ Property listing platform  
-✨ Multi-role dashboard  
-✨ Django + Next.js  
-✨ Payment Integration  
-
-🔗 **Live Demo:**  
-https://your-rental-project.com
-
-</td>
-
-<td width="50%">
-
-## 🎓 Educational Consultancy Website
-
-✨ Modern UI/UX  
-✨ Dynamic CMS  
-✨ Responsive Design  
-✨ SEO Optimized  
-
-🔗 **Live Demo:**  
-https://your-consultancy-site.com
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-## 📱 SMS Marketing System
-
-✨ Bulk SMS  
-✨ Campaign Management  
-✨ Analytics Dashboard  
-✨ Django REST API  
-
-🔗 **Live Demo:**  
-https://your-sms-system.com
-
-</td>
-
-<td width="50%">
-
-## 🎬 Movie Booking Platform
-
-✨ Online Ticket Booking  
-✨ Seat Selection  
-✨ Admin Dashboard  
-✨ Secure Payments  
-
-🔗 **Live Demo:**  
-https://your-movie-project.com
-
-</td>
-</tr>
-</table>
-
----
 
 # 💻 Tech Stack
 
 <div align="center">
 
-### Frontend
+## Frontend
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js,ts,html,css"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind"/>
 
-### Backend
+## Backend
 
-<img src="https://skillicons.dev/icons?i=django,python,nodejs"/>
+<img src="https://skillicons.dev/icons?i=python,django,nodejs"/>
 
-### Database & Tools
+## Database
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,linux,vscode"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase"/>
+
+## Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma,postman"/>
 
 </div>
 
@@ -141,9 +92,9 @@ https://your-movie-project.com
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rajankumarkhadka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rajankumarkhadka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajankumarkhadka&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajankumarkhadka&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -153,7 +104,7 @@ https://your-movie-project.com
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?usenamer=rajankumarkhadka&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=rajankumarkhadka&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -173,9 +124,42 @@ https://your-movie-project.com
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rajankumarkhadka&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=rajankumarkhadka&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
 
 </div>
+
+---
+
+# 📊 GitHub Summary Cards
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajankumarkhadka&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajankumarkhadka&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajankumarkhadka&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajankumarkhadka&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajankumarkhadka&theme=tokyonight&utcOffset=5.75"/>
+
+</div>
+
+---
+
+# ⚡ Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
@@ -189,11 +173,21 @@ https://your-movie-project.com
 
 ---
 
-# ☕ Support Me
+# 💻 Visitor Badge
 
 <div align="center">
 
-If you like my work, consider following ⭐ the repositories.
+<img src="https://komarev.com/ghpvc/?username=rajankumarkhadka&style=for-the-badge"/>
+
+</div>
+
+---
+
+# ☕ Support
+
+<div align="center">
+
+⭐ If you like my work, consider starring my repositories.
 
 </div>
 
@@ -201,6 +195,8 @@ If you like my work, consider following ⭐ the repositories.
 
 <div align="center">
 
-### 🚀 “Build. Learn. Improve. Repeat.”
+## 🚀 Build • Learn • Create • Repeat
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7c3aed&height=120&section=footer"/>
 
 </div>
