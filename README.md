@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0ea5e9,100:7c3aed&text=Rajan%20Kumar%20Khadka&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-# 👋 Hi, I'm Rajan Kumar Khadka
 
 ### 🚀 Full Stack Developer | Django • Next.js • React Native
 
