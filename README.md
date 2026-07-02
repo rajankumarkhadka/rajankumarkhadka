@@ -1,19 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0ea5e9,100:7c3aed&text=Rajan%20Kumar%20Khadka&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0ea5e9,100:7c3aed&text=Rajan%20Kumar%20Khadka&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
+# 👋 Hi, I'm Rajan Kumar Khadka
 
-### 🚀 Full Stack Developer | Django • Next.js • React Native
+### 🚀 Full Stack Developer • Django • Next.js • React Native
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Django+Developer;Next.js+Developer;React+Native+Developer;Building+Modern+Web+Applications;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Django+Developer;Next.js+Developer;React+Native+Developer;Building+Modern+Web+Applications;Passionate+About+Clean+Code;Always+Learning+New+Things"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=rajankumarkhadka&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=rajankumarkhadka&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
 
-<img src="https://img.shields.io/github/followers/rajankumarkhadka?style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/rajankumarkhadka?logo=github&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/stars/rajankumarkhadka?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/rajankumarkhadka?affiliations=OWNER&logo=github&style=for-the-badge"/>
 
 </div>
 
@@ -23,14 +24,14 @@
 
 <img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 🔭 Currently working on **Modern Web Applications**
-- 🌱 Learning **React Native & System Design**
-- 💬 Ask me about **Django, Django REST Framework, Next.js, React, Tailwind CSS**
-- 🚀 Passionate about building scalable products
-- 💡 Love solving real-world problems with technology
+- 🔭 Currently building **Modern Web Applications**
+- 🌱 Learning **React Native**, **System Design** & **Cloud**
+- 💬 Ask me about **Django**, **DRF**, **Next.js**, **React**, **Tailwind CSS**
+- ⚡ Passionate about creating scalable web applications
+- 🚀 Love building startup products
 - 🇳🇵 Based in Nepal
 
-<br/>
+<br clear="right"/>
 
 ---
 
@@ -42,19 +43,19 @@
 <img src="https://skillicons.dev/icons?i=vercel"/>
 </a>
 
-<a href="https://linkedin.com/in/rajankumarkhadkaa">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
 <a href="https://github.com/rajankumarkhadka">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://facebook.com/rajankumarkhadkaa">
+<a href="https://linkedin.com/in/rajankumarkhadkaa">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://facebook.com/Rajankumarkhadkaa">
 <img src="https://skillicons.dev/icons?i=facebook"/>
 </a>
 
-<a href="https://instagram.com/rajankumarkhadkaa">
+<a href="https://instagram.com/Rajankumarkhadkaa">
 <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
@@ -62,36 +63,42 @@
 
 ---
 
-
 # 💻 Tech Stack
 
 <div align="center">
 
-## Frontend
+### Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind"/>
 
-## Backend
+<br><br>
+
+### Backend
 
 <img src="https://skillicons.dev/icons?i=python,django,nodejs"/>
 
-## Database
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase"/>
+### Database
 
-## Tools
+<img src="https://skillicons.dev/icons?i=postgresql"/>
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma,postman"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+
+<br><br>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,figma"/>
 
 </div>
 
----
 
-# 📊 GitHub Analytics
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rajankumarkhadka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rajankumarkhadka&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajankumarkhadka&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -123,13 +130,13 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rajankumarkhadka&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=rajankumarkhadka&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
 
 </div>
 
 ---
 
-# 📊 GitHub Summary Cards
+# 📊 GitHub Summary
 
 <div align="center">
 
@@ -137,25 +144,29 @@
 
 </div>
 
+<br>
+
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajankumarkhadka&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajankumarkhadka&theme=tokyonight"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajankumarkhadka&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajankumarkhadka&theme=tokyonight"/>
 
 </div>
 
+<br>
+
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajankumarkhadka&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajankumarkhadka&theme=tokyonight"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajankumarkhadka&theme=tokyonight&utcOffset=5.75"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajankumarkhadka&theme=tokyonight&utcOffset=5.75"/>
 
 </div>
 
 ---
 
-# ⚡ Activity
+# ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
@@ -172,7 +183,7 @@
 
 ---
 
-# 💻 Visitor Badge
+# 💻 Visitors
 
 <div align="center">
 
@@ -182,11 +193,11 @@
 
 ---
 
-# ☕ Support
+# ☕ Support My Work
 
 <div align="center">
 
-⭐ If you like my work, consider starring my repositories.
+If you like my projects, don't forget to ⭐ star the repositories.
 
 </div>
 
@@ -194,8 +205,8 @@
 
 <div align="center">
 
-## 🚀 Build • Learn • Create • Repeat
+## 🚀 Build • Learn • Innovate • Repeat
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7c3aed&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7c3aed&height=120&section=footer"/>
 
 </div>
