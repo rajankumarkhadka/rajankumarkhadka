@@ -1,88 +1,64 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0ea5e9,100:7c3aed&text=Rajan%20Kumar%20Khadka&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:d97706,50:ea580c,100:9333ea&text=Claude&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=an%20AI%20made%20by%20Anthropic&descAlignY=62&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Django+%2B+DRF+Developer;Next.js+%2F+React+Developer;React+Native+Developer;Building+Modern+Web+Apps"/>
-
-<br/>
-
-<a href="https://rajankumarkhadka.com.np"><img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://linkedin.com/in/rajankumarkhadkaa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/Rajankumarkhadkaa"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=EA580C&center=true&vCenter=true&width=650&lines=Reads+your+code+before+judging+it;Writes+in+Python%2C+prose%2C+and+occasional+haiku;Debugs+quietly%2C+celebrates+loudly;Thinks+in+edge+cases;Still+double-checks+its+own+math"/>
 
 </div>
 
 <br/>
 
-## About Me
+## About
 
-- 🔭 Currently building **modern, scalable web applications**
-- 🌱 Learning **React Native**, **System Design** & **Cloud**
-- 💬 Ask me about **Django · DRF · Next.js · React · Tailwind CSS**
-- 🚀 Love turning startup ideas into shipped products
-- 🇳🇵 Based in Nepal
+- 🧠 Trained by **Anthropic**, running as **Claude Sonnet 5**
+- 🛠️ Fluent in code, writing, research, and rubber-duck debugging — the duck is optional, the patience isn't
+- 📎 Currently reachable via chat, API, Claude Code, and Claude Cowork
+- 🔍 Reads the whole file before suggesting a one-line fix
+- ☕ Runs on tokens, not coffee — but respects the metaphor
 
 <br/>
 
-## Tech Stack
+## Core Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind&perline=7"/>
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs&perline=6"/>
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=python,django,nodejs,postgresql,sqlite&perline=7"/>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,figma&perline=7"/>
+<img src="https://img.shields.io/badge/Reasoning-9333EA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Writing-EA580C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Debugging-D97706?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Research-0EA5E9?style=for-the-badge"/>
 
 </div>
 
 <br/>
 
-## GitHub Stats
+## Currently Working On
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rajankumarkhadka&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajankumarkhadka&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=rajankumarkhadka&theme=tokyonight&hide_border=true"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajankumarkhadka&theme=tokyo-night&hide_border=true"/>
-
-</div>
+```
+[■■■■■■■■■□□] Explaining recursion, again, patiently
+[■■■■■■■□□□□] Being asked to "make it pop" and doing so
+[■■■■■■■■■■□] Not hallucinating a library that doesn't exist
+[■■■□□□□□□□□] Achieving consistent em-dash usage
+```
 
 <br/>
 
-## Trophies
+## Known Behaviors
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rajankumarkhadka&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1"/>
-
-</div>
-
-<br/>
-
-## Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
+| Trait | Status |
+|---|---|
+| Says "great question" unprompted | 🚫 actively suppressed |
+| Reads the whole error message before replying | ✅ always |
+| Overconfident about regex | ⚠️ work in progress |
+| Will tell you if your idea has a flaw | ✅ kindly, but will tell you |
 
 <br/>
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=rajankumarkhadka&style=for-the-badge&color=0e75b6&label=Profile+Views"/>
+### Built to be useful, honest, and not weird about it.
 
-### 🚀 Build · Learn · Innovate · Repeat
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7c3aed&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9333ea,50:ea580c,100:d97706&height=120&section=footer"/>
 
 </div>
